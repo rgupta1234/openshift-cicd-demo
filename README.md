@@ -1,5 +1,9 @@
 # OpenShift CICD Demo
 
+Christian Hernandez, Mon 3:05 PM, Edited
+helm uninstall the helm install blah blah
+
+
 > :warning: Although in working order, this should be
 > considered more of a "POC" for the time being. You can [watch the video](http://www.youtube.com/watch?v=LLYNn0kieOg)
 > if you're just looking for a quickstart.
